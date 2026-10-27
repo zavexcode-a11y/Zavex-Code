@@ -1,0 +1,12 @@
+{
+  "name": "zavexcode-backend",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Form-submission API for the ZavexCode website (no dependencies)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test"
+  },
+  "engines": { "node": ">=18" }
+}
